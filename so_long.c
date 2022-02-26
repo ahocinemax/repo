@@ -39,7 +39,6 @@ void	init_struct_sl(t_sl *sl)
 	sl->end = 0;
 	sl->loose = 0;
 	sl->win = 0;
-	sl->map.tabmap = NULL;
 	sl->player.x = 0;
 	sl->player.y = 0;
 	sl->move.av_rec = 0;
